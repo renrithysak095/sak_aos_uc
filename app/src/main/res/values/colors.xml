@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5B7AF7</color>
+    <color name="secondary">#BCD7FF</color>
+    <color name="accent">#0d0213</color>
+    <color name="variant">#87828a</color>
+    <color name="detailItem">#0d0213</color>
+    <color name="background_card">#fdfdfd</color>
+</resources>
