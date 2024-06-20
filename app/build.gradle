@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.phalpheapheakdey.nft'
+    namespace 'com.renrithysak.Heritage'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.phalpheapheakdey.nft"
+        applicationId 'com.renrithysak.heritage'
         minSdk 24
         targetSdk 34
         versionCode 1

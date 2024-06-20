@@ -1,4 +1,4 @@
-package com.phalpheapheakdey.nft;
+package com.renrithysak.Heritage;
 
 import org.junit.Test;
 

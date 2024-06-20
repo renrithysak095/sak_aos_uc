@@ -10,22 +10,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.NFT"
+        android:theme="@style/Theme.Heritage"
         tools:targetApi="31">
         <activity
-            android:name=".AboutUs"
+            android:name="com.renrithysak.heritage.AboutUs"
             android:exported="false" />
         <activity
-            android:name=".Profile"
+            android:name="com.renrithysak.heritage.Profile"
             android:exported="false" />
         <activity
-            android:name=".DetailItem"
+            android:name="com.renrithysak.heritage.DetailItem"
             android:exported="false" />
         <activity
-            android:name=".HomeScreen"
+            android:name="com.renrithysak.heritage.HomeScreen"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.renrithysak.heritage.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

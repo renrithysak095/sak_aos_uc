@@ -1,4 +1,4 @@
-package com.phalpheapheakdey.nft;
+package com.renrithysak.Heritage;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.phalpheapheakdey.nft", appContext.getPackageName());
+        assertEquals("com.renrithysak.Heritage", appContext.getPackageName());
     }
 }

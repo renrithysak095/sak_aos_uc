@@ -5,7 +5,7 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.renrithysak.heritage.MainActivity">
 <ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -603,7 +603,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="NFTS #168"
+                            android:text="HeritageS #168"
                             android:textColor="@color/variant"
                             android:textSize="18sp" />
                     </LinearLayout>
@@ -652,7 +652,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="NFTS #168"
+                            android:text="HeritageS #168"
                             android:textColor="@color/variant"
                             android:textSize="18sp" />
                     </LinearLayout>
