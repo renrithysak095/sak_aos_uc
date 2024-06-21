@@ -8,7 +8,6 @@ import android.widget.Button;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.renrithysak.Heritage.R;
 
 public class AboutUs extends AppCompatActivity {
 

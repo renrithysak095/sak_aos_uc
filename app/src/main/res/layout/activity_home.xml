@@ -5,7 +5,7 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.renrithysak.heritage.MainActivity">
+    tools:context=".MainActivity">
 <ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -202,7 +202,7 @@
                     android:layout_height="420dp"
                     android:layout_margin="10dp"
                     android:clickable="true"
-                    android:onClick="onCardClick"
+                    android:onClick=""
                     android:background="@drawable/card">
                     <LinearLayout
                         android:layout_width="match_parent"

@@ -13,23 +13,22 @@
         android:theme="@style/Theme.Heritage"
         tools:targetApi="31">
         <activity
-            android:name="com.renrithysak.heritage.AboutUs"
+            android:name=".AboutUs"
             android:exported="false" />
         <activity
-            android:name="com.renrithysak.heritage.Profile"
+            android:name=".Profile"
             android:exported="false" />
         <activity
-            android:name="com.renrithysak.heritage.DetailItem"
+            android:name=".DetailItem"
             android:exported="false" />
         <activity
-            android:name="com.renrithysak.heritage.HomeScreen"
+            android:name=".HomeScreen"
             android:exported="false" />
         <activity
-            android:name="com.renrithysak.heritage.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

@@ -1,4 +1,4 @@
-package com.renrithysak.Heritage;
+package com.renrithysak.heritage;
 
 import org.junit.Test;
 

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.renrithysak.Heritage'
+    namespace 'com.renrithysak.heritage'
     compileSdk 34
 
     defaultConfig {

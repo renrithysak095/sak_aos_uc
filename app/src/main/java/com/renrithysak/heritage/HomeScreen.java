@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.renrithysak.Heritage.R;
 
 public class HomeScreen extends AppCompatActivity {
     private DrawerLayout drawerLayout;
